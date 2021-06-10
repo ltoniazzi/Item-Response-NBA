@@ -1,6 +1,6 @@
 # Item-Response-NBA
 
-This notebook contains an analysis of latent skills of NBA players when involved in a play where a fould was or migh have been called. The analysis is performed with a Bayesian Item Response logistic model with hierarchical structure. The software used is [PyMC3](https://docs.pymc.io/). Note that this notebook follows parts of Austin Rochford blog post [NBA Foul Calls and Bayesian Item Response Theory](https://www.austinrochford.com/posts/2017-04-04-nba-irt.html).
+This notebook contains an analysis of latent skills of NBA players when involved in a play where a foul was or might have been called. The analysis is performed with a Bayesian Item Response Rasch model with hierarchical structure. The software used is [PyMC3](https://docs.pymc.io/). This notebook is based on Austin Rochford blog post [NBA Foul Calls and Bayesian Item Response Theory](https://www.austinrochford.com/posts/2017-04-04-nba-irt.html).
 
 
 
