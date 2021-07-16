@@ -1,12 +1,13 @@
 # Item-Response-NBA
 
-This notebook contains an analysis of latent skills of NBA players when involved in a play where a foul was or might have been called. The analysis is performed with a Bayesian Item Response Rasch model with hierarchical structure. The software used is [PyMC3](https://docs.pymc.io/). This notebook is based on Austin Rochford blog post [NBA Foul Calls and Bayesian Item Response Theory](https://www.austinrochford.com/posts/2017-04-04-nba-irt.html).
+This notebook contains an analysis of latent skills of NBA players when involved in a play where a foul was or might have been called. The analysis is performed with a Bayesian Item Response Rasch model with hierarchical structure. The software used is [PyMC3](https://docs.pymc.io/). This notebook is based on Austin Rochford blog post [NBA Foul Calls and Bayesian Item Response Theory](https://www.austinrochford.com/posts/2017-04-04-nba-irt.html). This notebook is also available within the official PyMC3 examples [here](https://github.com/pymc-devs/pymc-examples/blob/main/examples/case_studies/item_response_nba.ipynb).
 
 
 
 ## How to easily use this notebook
 
 The easiest way is to simply click on this binder link
+
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltoniazzi/Item-Response-NBA/3c6b15843a858ae65bdcc394191c19727fce38b8)
 
 Alternatively, you can set up the repo locally using Anaconda following the simple four steps.
