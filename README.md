@@ -4,10 +4,10 @@ This notebook contains an analysis of latent skills of NBA players when involved
 
 
 
-### How to easily use this notebook
+## How to easily use this notebook
 
 The easiest way is to simply click on this binder link
-https://mybinder.org/v2/gh/ltoniazzi/Item-Response-NBA/3c6b15843a858ae65bdcc394191c19727fce38b8
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/ltoniazzi/Item-Response-NBA/3c6b15843a858ae65bdcc394191c19727fce38b8)
 
 Alternatively, you can set up the repo locally using Anaconda following the simple four steps.
 
